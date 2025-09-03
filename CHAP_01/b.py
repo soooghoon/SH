@@ -1,1 +1,0 @@
-print('b file 입니다')
